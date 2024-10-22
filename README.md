@@ -2,4 +2,4 @@
 
 [Proyecto de Tesis Magíster en Estadística UV](proyecto_tesis.pdf)
 
-[Dataset](brats2021_dataloader.ipynb)
+[Dataset Visualization](brats2021_dataloader.ipynb)
